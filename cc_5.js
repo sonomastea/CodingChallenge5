@@ -7,8 +7,12 @@ class Employee {
         this.salary=salary
         console.log(`Employee name: ${this.name}), Monthly Salary:$
         {this.salary}`);
+    }
+    calculateAnnualSalary(){
+        this.salary*12;
 
     }
-    //Step 2
-  
+    
 }
+       
+  
