@@ -9,5 +9,6 @@ class Employee {
         {this.salary}`);
 
     }
+    //Step 2
   
 }
